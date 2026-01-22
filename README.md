@@ -16,7 +16,7 @@ dashboards.
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 ### Loan Default & Overview
 Provides a high-level summary of loan distribution and default patterns:
