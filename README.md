@@ -53,6 +53,15 @@ Focuses on trend analysis and risk indicators:
 
 ---
 
+## Business Questions Addressed
+- Which loan purposes contribute the highest loan amounts?
+- How does default rate vary across employment types?
+- What credit score segments carry the highest financial risk?
+- How do income levels and employment types influence loan exposure?
+- What are the year-over-year trends in loan defaults?
+
+---
+
 ## Key Concepts & Skills Demonstrated
 - Advanced DAX: `CALCULATE`, `FILTER`, `ALL`, `ALLEXCEPT`, `MEDIANX`
 - Time Intelligence: YOY and YTD calculations
@@ -71,6 +80,15 @@ https://app.powerbi.com/view?r=eyJrIjoiMmQ0NmZmZWYtN2Y4OS00NDgyLWE3YzEtZTFiZTMyY
 ## Power BI Report File
 The complete Power BI report is available in the repository as a `.pbix` file and contains the full
 data model, DAX measures, and report pages used to build the live dashboard.
+
+---
+
+## How to Use This Repository
+1. Download the `.pbix` file from the repository.
+2. Open it using **Power BI Desktop**.
+3. If prompted for credentials, update the data source settings.
+4. Explore the report pages and interact with slicers, filters, and drill-downs.
+5. Alternatively, use the **Live Dashboard link** for a read-only interactive experience.
 
 ---
 
