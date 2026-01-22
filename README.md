@@ -12,7 +12,8 @@ dashboards.
 - **Data Ingestion**: Power BI Dataflows (Gen1 – Power BI Fabric)  
 - **Connectivity**: On-Premises Data Gateway  
 - **Visualization**: Power BI Desktop & Power BI Service  
-- **Language**: DAX  
+- **Language**: DAX
+- **Refresh Mode**: Scheduled refresh via On-Premises Data Gateway
 
 ---
 
@@ -93,4 +94,4 @@ data model, DAX measures, and report pages used to build the live dashboard.
 ---
 
 ## Author
-**Anikett Aman**
+**Aniket Aman**
