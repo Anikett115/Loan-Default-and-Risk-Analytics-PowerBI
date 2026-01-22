@@ -75,4 +75,4 @@ data model, DAX measures, and report pages used to build the live dashboard.
 ---
 
 ## Author
-**Aniket Aman**
+**Anikett Aman**
