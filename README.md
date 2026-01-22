@@ -68,5 +68,11 @@ https://app.powerbi.com/view?r=eyJrIjoiMmQ0NmZmZWYtN2Y4OS00NDgyLWE3YzEtZTFiZTMyY
 
 ---
 
+## Power BI Report File
+The complete Power BI report is available in the repository as a `.pbix` file and contains the full
+data model, DAX measures, and report pages used to build the live dashboard.
+
+---
+
 ## Author
 **Aniket Aman**
